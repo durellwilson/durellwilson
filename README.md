@@ -34,7 +34,7 @@ I’m a versatile iOS and full-stack Web App Developer passionate about human-ce
 
 ### MSU Community Music School Detroit App
 <a href="https://cmsdcasestudy.weebly.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cmsd-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=durellwilson&repo=cmsd-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 - Developed using SwiftUI and Swift

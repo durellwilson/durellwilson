@@ -34,7 +34,7 @@ I’m a versatile iOS and full-stack Web App Developer passionate about human-ce
 
 ### MSU Community Music School Detroit App
 <a href="https://cmsdcasestudy.weebly.com">
-  <img align="center" src="https://cmsdcasestudy.weebly.com/uploads/1/4/9/6/149641718/untitled-3_orig.png" />
+  <img align="center" width="200" src="https://cmsdcasestudy.weebly.com/uploads/1/4/9/6/149641718/untitled-3_orig.png" />
 </a>
 
 - Developed using SwiftUI and Swift

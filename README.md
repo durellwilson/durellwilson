@@ -57,7 +57,7 @@ I’m a versatile iOS and full-stack Web App Developer passionate about human-ce
 - Deepening knowledge in AI and machine learning
 
 ## 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/durellwilson/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rellonaut/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/rellonaut)
 
 
